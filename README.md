@@ -8,7 +8,7 @@ she/her
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)
 [![Orcid Badge](https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&labelColor=A6CE39&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-5561-5908)](https://orcid.org/0000-0001-5561-5908)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/The_Eimer)](https://twitter.com/The_Eimer)
-[![AutoML Badge](https://img.shields.io/badge/AutoML-Blog-beige?style=for-the-badge&labelColor=beige&link=https://www.automl.org/author/teimer/)](https://www.automl.org/author/teimer/)
+[![AutoML Badge](https://img.shields.io/badge/AutoML-Blog-beige?style=for-the-badge&labelColor=beige&link=https://www.automl.org/author/eimer/)](https://www.automl.org/author/eimer/)
 <BR>
 <!--
 **TheEimer/TheEimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
