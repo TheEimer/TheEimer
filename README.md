@@ -1,6 +1,6 @@
 ### Theresa Eimer
 
-I'm a PhD researcher in AutoML at the [AutoML Group in Hannover](https://www.tnt.uni-hannover.de/staff/eimer/). I'm interested in all things Reinforcement Learning, HPO and Dynamic Algorithm Configuration. 
+I'm a PhD researcher in AutoML at the [AutoML Group in Hannover](https://www.tnt.uni-hannover.de/staff/eimer/). I'm interested in all things Reinforcement Learning, generalization and Dynamic Algorithm Configuration. 
 she/her
 
 [DAC Benchmarks](https://github.com/automl/DACBench) | [DAC for safe RL](https://github.com/frederikschubert/ARA) | [Curriculum Learning](https://github.com/automl/SPaCE) | [Contextual RL](https://github.com/automl/CARL)
