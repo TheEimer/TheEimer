@@ -3,7 +3,7 @@
 I'm a PhD researcher in AutoML at the [AutoML Group in Hannover](https://www.tnt.uni-hannover.de/staff/eimer/). I'm interested in all things Reinforcement Learning, generalization and Dynamic Algorithm Configuration. 
 she/her
 
-[DAC Benchmarks](https://github.com/automl/DACBench) | [DAC for safe RL](https://github.com/frederikschubert/ARA) | [Curriculum Learning](https://github.com/automl/SPaCE) | [Contextual RL](https://github.com/automl/CARL)
+[DAC Benchmarks](https://github.com/automl/DACBench) | [Contextual RL](https://github.com/automl/CARL) | [Curriculum Learning](https://github.com/automl/SPaCE) | [HPO in RL](https://github.com/facebookresearch/how-to-autorl)
 
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)
 [![Orcid Badge](https://img.shields.io/badge/-orcID-A6CE39?style=for-the-badge&labelColor=A6CE39&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-5561-5908)](https://orcid.org/0000-0001-5561-5908)
